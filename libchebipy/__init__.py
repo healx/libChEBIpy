@@ -21,7 +21,6 @@ from ._name import Name
 from ._reference import Reference
 from ._relation import Relation
 from ._structure import Structure
-from pandas.stats.interface import ols
 
 
 def search(term, exact=False):
